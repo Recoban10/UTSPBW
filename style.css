@@ -1,0 +1,27 @@
+.jumbotron {
+  padding: 3rem 3rem;
+  background-color: rgb(237, 237, 245);
+}
+#blog {
+  padding-top: 1rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+.card {
+  padding: 5px;
+}
+.card img {
+  max-width: 100%;
+  height: auto;
+}
+.col {
+  margin-top: 1.5rem;
+}
+footer {
+  margin-top: 2rem;
+  background-color: rgb(24, 134, 48);
+  color: white;
+}
+#contact {
+  background-color: rgb(237, 237, 245);
+}
